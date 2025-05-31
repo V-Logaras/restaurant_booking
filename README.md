@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Restaurant Booking App
 
@@ -103,3 +104,7 @@ Access at: [http://localhost:5173]
 - `DELETE /api/reservations/:id`
 
 ---
+=======
+# restaurant_booking
+A full-stack web app for restaurant table reservations using React and Node.js
+>>>>>>> 3880af1f9645fe3c84bad403fa333f5aad6ed278
